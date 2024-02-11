@@ -67,3 +67,23 @@ git restore .
 ```
 
 también puede borrar los cambias de 1 archivo especifico remplazando **< . >** por la ruta del mismo
+
+### Ver y crear ramas
+
+Permite ver todas las ramas existentes
+
+```
+git branch
+```
+
+Crear ramas de nombre **name**
+
+```
+git branch name
+```
+
+Navegar entre ramas
+
+```
+git checkout name
+```
