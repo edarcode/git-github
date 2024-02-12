@@ -7,7 +7,7 @@ git config --global user.name "Edwin Ortiz"
 ```
 
 ```
-git config --global user.email  "edarcode@gmail.com"
+git config --global user.email  "correo@gmail.com"
 ```
 
 ### Ver cambios que se hayan hecho
